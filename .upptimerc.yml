@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Webmail-DGE
-    url: http://www.webmail.mendoza.edu.ar
+    url: http://webmail.mendoza.edu.ar
   - name: Portal-DGE
     url: https://www.mendoza.edu.ar
   - name: Webmail-GOV
