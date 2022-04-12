@@ -1,22 +1,22 @@
 [
   {
     "name": "Webmail-DGE",
-    "url": "http://www.webmail.mendoza.edu.ar",
-    "icon": "https://favicons.githubusercontent.com/www.webmail.mendoza.edu.ar",
+    "url": "http://webmail.mendoza.edu.ar",
+    "icon": "https://favicons.githubusercontent.com/webmail.mendoza.edu.ar",
     "slug": "webmail-dge",
-    "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
+    "time": 802,
+    "timeDay": 802,
+    "timeWeek": 802,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {
-      "2022-04-12": 20
+      "2022-04-12": 22
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1872,
-    "timeDay": 1872,
-    "timeWeek": 1872,
-    "timeMonth": 1872,
-    "timeYear": 1872,
+    "time": 1940,
+    "timeDay": 1940,
+    "timeWeek": 1940,
+    "timeMonth": 1940,
+    "timeYear": 1940,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1909,
-    "timeDay": 1909,
-    "timeWeek": 1909,
-    "timeMonth": 1909,
-    "timeYear": 1909,
+    "time": 1773,
+    "timeDay": 1773,
+    "timeWeek": 1773,
+    "timeMonth": 1773,
+    "timeYear": 1773,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 1645,
-    "timeWeek": 1645,
-    "timeMonth": 1645,
-    "timeYear": 1645,
+    "time": 1778,
+    "timeDay": 1778,
+    "timeWeek": 1778,
+    "timeMonth": 1778,
+    "timeYear": 1778,
     "dailyMinutesDown": {}
   }
 ]
