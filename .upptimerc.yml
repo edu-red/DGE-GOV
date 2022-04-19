@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name:  Eduardo Romero
   introTitle: "**Monitor de servicios**"
-  introMessage: -[Dirección General de Escuelas](https://www.mendoza.edu.ar) y [Gobierno de Mendoza](https://www.mendoza.gov.ar)-
+  introMessage: -[Dirección General de Escuelas](https://www.mendoza.edu.ar), [Gobierno de Mendoza](https://www.mendoza.gov.ar)-
   navbar:
     - title: Status
       href: /
