@@ -5,12 +5,16 @@ repo: DGE-GOV # The name of this repository
 sites:
   - name: Webmail-DGE
     url: http://webmail.mendoza.edu.ar
+    icon: https://www.mendoza.edu.ar/favicon.ico
   - name: Portal-DGE
     url: https://www.mendoza.edu.ar
+    icon: https://www.mendoza.edu.ar/favicon.ico
   - name: Webmail-GOV
     url: https://rcmail.mendoza.gov.ar/
+    icon: https://rcmail.mendoza.gov.ar/favicon.ico
   - name: Portal-GOV
     url: https://www.mendoza.gov.ar
+    icon: https://www.mendoza.gov.ar/favicon.ico
     
 assignees:
   - edu-red
