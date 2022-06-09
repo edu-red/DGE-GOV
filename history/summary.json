@@ -46,19 +46,19 @@
     "url": "https://rcmail.mendoza.gov.ar/",
     "icon": "https://rcmail.mendoza.gov.ar/favicon.ico",
     "slug": "webmail-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 1357,
-    "timeWeek": 1304,
-    "timeMonth": 1288,
-    "timeYear": 1274,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1379,
+    "timeDay": 5131,
+    "timeWeek": 2254,
+    "timeMonth": 1526,
+    "timeYear": 1379,
     "dailyMinutesDown": {
-      "2022-06-09": 0
+      "2022-06-09": 6
     }
   },
   {
@@ -67,18 +67,16 @@
     "icon": "https://www.mendoza.gov.ar/favicon.ico",
     "slug": "portal-gov",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2171,
     "timeDay": 5439,
     "timeWeek": 2860,
     "timeMonth": 2468,
     "timeYear": 2171,
-    "dailyMinutesDown": {
-      "2022-06-09": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
