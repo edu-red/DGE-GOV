@@ -26,9 +26,9 @@
     "slug": "portal-dge",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.62%",
     "time": 2552,
     "timeDay": 4089,
@@ -36,7 +36,6 @@
     "timeMonth": 3100,
     "timeYear": 2552,
     "dailyMinutesDown": {
-      "2022-06-09": 4,
       "2022-05-16": 77,
       "2022-05-13": 66,
       "2022-05-11": 172
@@ -47,9 +46,9 @@
     "url": "https://rcmail.mendoza.gov.ar/",
     "icon": "https://rcmail.mendoza.gov.ar/favicon.ico",
     "slug": "webmail-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,26 +57,28 @@
     "timeWeek": 1304,
     "timeMonth": 1288,
     "timeYear": 1274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-09": 0
+    }
   },
   {
     "name": "Portal-GOV",
     "url": "https://www.mendoza.gov.ar",
     "icon": "https://www.mendoza.gov.ar/favicon.ico",
     "slug": "portal-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2081,
-    "timeDay": 2199,
-    "timeWeek": 2029,
-    "timeMonth": 2268,
-    "timeYear": 2081,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2171,
+    "timeDay": 5439,
+    "timeWeek": 2860,
+    "timeMonth": 2468,
+    "timeYear": 2171,
     "dailyMinutesDown": {
-      "2022-06-09": 0
+      "2022-06-09": 7
     }
   }
 ]
