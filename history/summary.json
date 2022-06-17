@@ -4,18 +4,19 @@
     "url": "http://webmail.mendoza.edu.ar",
     "icon": "https://www.mendoza.edu.ar/favicon.ico",
     "slug": "webmail-dge",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 841,
     "timeDay": 677,
     "timeWeek": 951,
     "timeMonth": 895,
     "timeYear": 841,
     "dailyMinutesDown": {
+      "2022-06-17": 2,
       "2022-04-12": 22
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://www.mendoza.edu.ar",
     "icon": "https://www.mendoza.edu.ar/favicon.ico",
     "slug": "portal-dge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 2684,
@@ -36,6 +37,7 @@
     "timeMonth": 3741,
     "timeYear": 2684,
     "dailyMinutesDown": {
+      "2022-06-17": 1,
       "2022-05-16": 77,
       "2022-05-13": 66,
       "2022-05-11": 172
@@ -46,10 +48,10 @@
     "url": "https://rcmail.mendoza.gov.ar/",
     "icon": "https://rcmail.mendoza.gov.ar/favicon.ico",
     "slug": "webmail-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1385,
@@ -57,16 +59,18 @@
     "timeWeek": 1346,
     "timeMonth": 1569,
     "timeYear": 1385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 1
+    }
   },
   {
     "name": "Portal-GOV",
     "url": "https://www.mendoza.gov.ar",
     "icon": "https://www.mendoza.gov.ar/favicon.ico",
     "slug": "portal-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,6 +79,8 @@
     "timeWeek": 1960,
     "timeMonth": 2408,
     "timeYear": 2146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   }
 ]
