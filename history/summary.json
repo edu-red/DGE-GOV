@@ -85,9 +85,9 @@
     "url": "https://www.mendoza.gov.ar",
     "icon": "https://www.mendoza.gov.ar/favicon.ico",
     "slug": "portal-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -97,6 +97,7 @@
     "timeMonth": 2017,
     "timeYear": 2041,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-09-15": 56,
       "2022-06-17": 564
     }
