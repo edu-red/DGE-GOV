@@ -11,17 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1168,
-    "timeDay": 743,
-    "timeWeek": 957,
-    "timeMonth": 947,
+    "timeDay": 724,
+    "timeWeek": 923,
+    "timeMonth": 933,
     "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-08-17": 92,
       "2023-07-11": 780,
       "2023-07-10": 165,
       "2023-03-02": 184,
-      "2023-03-01": 92,
-      "2022-11-18": 18
+      "2023-03-01": 92
     }
   },
   {
@@ -31,14 +30,14 @@
     "slug": "portal-dge",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "88.18%",
+    "uptimeDay": "98.36%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.57%",
     "time": 4312,
-    "timeDay": 3267,
+    "timeDay": 3162,
     "timeWeek": 3671,
-    "timeMonth": 4240,
+    "timeMonth": 4101,
     "timeYear": 4445,
     "dailyMinutesDown": {
       "2023-11-17": 24,
@@ -57,8 +56,7 @@
       "2023-03-01": 92,
       "2023-02-15": 75,
       "2023-02-14": 80,
-      "2023-01-27": 25,
-      "2022-11-18": 18
+      "2023-01-27": 25
     }
   },
   {
@@ -72,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 1441,
-    "timeDay": 1343,
-    "timeWeek": 1292,
-    "timeMonth": 1250,
+    "time": 1438,
+    "timeDay": 1079,
+    "timeWeek": 1275,
+    "timeMonth": 1247,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2023-09-24": 21,
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.73%",
-    "time": 2088,
-    "timeDay": 1676,
-    "timeWeek": 2005,
-    "timeMonth": 1932,
-    "timeYear": 2106,
+    "time": 2089,
+    "timeDay": 1975,
+    "timeWeek": 2052,
+    "timeMonth": 1918,
+    "timeYear": 2107,
     "dailyMinutesDown": {
       "2023-10-25": 27,
       "2023-10-23": 21,
