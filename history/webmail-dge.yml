@@ -1,7 +1,7 @@
 url: http://webmail.mendoza.edu.ar
-status: down
-code: 502
-responseTime: 6538
-lastUpdated: 2023-12-07T19:40:48.640Z
+status: up
+code: 200
+responseTime: 13713
+lastUpdated: 2023-12-07T19:46:53.590Z
 startTime: 2022-04-12T18:29:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
