@@ -39,7 +39,7 @@
     "timeDay": 4899,
     "timeWeek": 3902,
     "timeMonth": 4201,
-    "timeYear": 4572,
+    "timeYear": 4574,
     "dailyMinutesDown": {
       "2023-12-26": 282,
       "2023-12-25": 144,
@@ -67,9 +67,9 @@
     "url": "https://rcmail.mendoza.gov.ar/",
     "icon": "https://rcmail.mendoza.gov.ar/favicon.ico",
     "slug": "webmail-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
@@ -79,6 +79,7 @@
     "timeMonth": 1196,
     "timeYear": 1440,
     "dailyMinutesDown": {
+      "2024-02-15": 0,
       "2023-12-26": 282,
       "2023-12-25": 144,
       "2023-11-23": 388,
@@ -108,7 +109,7 @@
     "timeDay": 1659,
     "timeWeek": 1808,
     "timeMonth": 1989,
-    "timeYear": 2054,
+    "timeYear": 2053,
     "dailyMinutesDown": {
       "2023-12-10": 37,
       "2023-12-09": 72,
