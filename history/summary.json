@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1055,
-    "timeDay": 0,
-    "timeWeek": 1029,
-    "timeMonth": 925,
-    "timeYear": 1050,
+    "timeDay": 713,
+    "timeWeek": 1027,
+    "timeMonth": 922,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2024-07-09": 339,
       "2024-07-08": 247,
-      "2023-11-23": 88,
-      "2023-08-17": 92
+      "2023-11-23": 88
     }
   },
   {
@@ -29,14 +28,14 @@
     "slug": "portal-dge",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.57%",
-    "time": 4445,
-    "timeDay": 2851,
-    "timeWeek": 3159,
-    "timeMonth": 3526,
+    "uptimeYear": "99.58%",
+    "time": 4444,
+    "timeDay": 3068,
+    "timeWeek": 3158,
+    "timeMonth": 3528,
     "timeYear": 4440,
     "dailyMinutesDown": {
       "2024-08-14": 16,
@@ -57,8 +56,7 @@
       "2023-11-23": 510,
       "2023-11-17": 24,
       "2023-11-16": 146,
-      "2023-08-24": 16,
-      "2023-08-17": 92
+      "2023-08-24": 16
     }
   },
   {
@@ -71,20 +69,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 1288,
-    "timeDay": 0,
-    "timeWeek": 1126,
+    "uptimeYear": "99.80%",
+    "time": 1270,
+    "timeDay": 1109,
+    "timeWeek": 1122,
     "timeMonth": 1165,
-    "timeYear": 1271,
+    "timeYear": 1270,
     "dailyMinutesDown": {
       "2024-07-08": 34,
       "2024-04-17": 22,
       "2023-12-26": 282,
       "2023-12-25": 144,
       "2023-11-23": 388,
-      "2023-09-24": 21,
-      "2023-08-17": 156
+      "2023-09-24": 21
     }
   },
   {
@@ -99,10 +96,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
     "time": 1919,
-    "timeDay": 0,
-    "timeWeek": 1946,
-    "timeMonth": 1862,
-    "timeYear": 1921,
+    "timeDay": 1845,
+    "timeWeek": 1920,
+    "timeMonth": 1863,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2024-08-06": 22,
       "2024-07-08": 17,
@@ -117,8 +114,7 @@
       "2023-11-23": 388,
       "2023-10-25": 27,
       "2023-10-23": 21,
-      "2023-09-24": 21,
-      "2023-08-17": 147
+      "2023-09-24": 21
     }
   }
 ]
