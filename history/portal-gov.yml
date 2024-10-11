@@ -1,7 +1,7 @@
 url: https://www.mendoza.gov.ar
-status: up
-code: 200
-responseTime: 1654
-lastUpdated: 2024-10-10T23:15:50.591Z
+status: down
+code: 500
+responseTime: 1199
+lastUpdated: 2024-10-11T11:38:41.611Z
 startTime: 2022-04-12T18:29:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
