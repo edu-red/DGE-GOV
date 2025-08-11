@@ -26,17 +26,17 @@
     "url": "https://www.mendoza.edu.ar",
     "icon": "https://www.mendoza.edu.ar/favicon.ico",
     "slug": "portal-dge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "82.09%",
+    "uptimeDay": "82.08%",
     "uptimeWeek": "84.19%",
     "uptimeMonth": "94.01%",
     "uptimeYear": "99.40%",
-    "time": 3492,
-    "timeDay": 2196,
-    "timeWeek": 2500,
-    "timeMonth": 2577,
-    "timeYear": 3242,
+    "time": 3488,
+    "timeDay": 2169,
+    "timeWeek": 2493,
+    "timeMonth": 2573,
+    "timeYear": 3239,
     "dailyMinutesDown": {
       "2025-08-11": 148,
       "2025-08-10": 302,
@@ -73,8 +73,7 @@
       "2025-03-31": 19,
       "2025-03-24": 40,
       "2025-03-17": 18,
-      "2025-03-03": 15,
-      "2025-02-24": 20
+      "2025-03-03": 15
     }
   },
   {
