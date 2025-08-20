@@ -1,7 +1,7 @@
 url: https://www.mendoza.edu.ar
-status: up
-code: 200
-responseTime: 2851
-lastUpdated: 2025-08-20T09:17:09.085Z
+status: down
+code: 503
+responseTime: 1459
+lastUpdated: 2025-08-20T09:56:02.878Z
 startTime: 2022-04-12T18:29:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
