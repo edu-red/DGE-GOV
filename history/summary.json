@@ -33,7 +33,7 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "98.13%",
     "time": 2736,
     "timeDay": 2854,
@@ -118,17 +118,17 @@
     "url": "https://www.mendoza.gov.ar",
     "icon": "https://www.mendoza.gov.ar/favicon.ico",
     "slug": "portal-gov",
-    "status": "down",
+    "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "93.92%",
-    "time": 2719,
-    "timeDay": 2308,
-    "timeWeek": 2568,
-    "timeMonth": 2785,
-    "timeYear": 3010,
+    "uptimeDay": "80.47%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "93.90%",
+    "time": 2721,
+    "timeDay": 2464,
+    "timeWeek": 2574,
+    "timeMonth": 2780,
+    "timeYear": 3009,
     "dailyMinutesDown": {
       "2025-06-04": 783,
       "2025-07-11": 15,
@@ -166,7 +166,7 @@
       "2026-04-16": 68,
       "2026-05-04": 178,
       "2026-05-07": 101,
-      "2026-06-03": 157
+      "2026-06-03": 281
     }
   }
 ]
