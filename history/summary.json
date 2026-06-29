@@ -39,7 +39,7 @@
     "timeDay": 2577,
     "timeWeek": 2851,
     "timeMonth": 3095,
-    "timeYear": 2609,
+    "timeYear": 2604,
     "dailyMinutesDown": {
       "2025-08-21": 35,
       "2025-08-22": 196,
@@ -118,17 +118,17 @@
     "url": "https://www.mendoza.gov.ar",
     "icon": "https://www.mendoza.gov.ar/favicon.ico",
     "slug": "portal-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "98.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.60%",
     "uptimeYear": "93.81%",
-    "time": 2774,
-    "timeDay": 2911,
-    "timeWeek": 3046,
-    "timeMonth": 2458,
-    "timeYear": 3010,
+    "time": 2773,
+    "timeDay": 1850,
+    "timeWeek": 2764,
+    "timeMonth": 2428,
+    "timeYear": 3005,
     "dailyMinutesDown": {
       "2025-07-11": 15,
       "2025-09-08": 87,
@@ -172,7 +172,8 @@
       "2026-06-07": 130,
       "2026-06-14": 86,
       "2026-06-18": 281,
-      "2026-06-17": 52
+      "2026-06-17": 52,
+      "2026-06-29": 0
     }
   }
 ]
