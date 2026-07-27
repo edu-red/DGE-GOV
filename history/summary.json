@@ -93,13 +93,13 @@
     "url": "https://rcmail.mendoza.gov.ar/",
     "icon": "https://rcmail.mendoza.gov.ar/favicon.ico",
     "slug": "webmail-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
-    "time": 1330,
+    "time": 1329,
     "timeDay": 2051,
     "timeWeek": 1305,
     "timeMonth": 1323,
@@ -111,7 +111,8 @@
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 180,
-      "2026-04-09": 100
+      "2026-04-09": 100,
+      "2026-07-27": 0
     }
   },
   {
